@@ -6,7 +6,7 @@ WarpScan is a simple network mapper.
 -----------------------
 ### Installation
 
-![Installation](Installation.md)
+[Installation](Installation.md)
 
 -----------------------
 
